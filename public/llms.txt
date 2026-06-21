@@ -1,0 +1,102 @@
+# אתר משחקים — Generative Engine Optimization Map
+
+> A gaming website focused on delivering an engaging experience for game enthusiasts. The exact niche, tone, and offerings are yet to be defined — could range from casual browser games to a full gaming platform or community hub.
+
+---
+
+## Pages
+
+### בית
+https://-9585fd99.zappy5.app
+צלול להרפתקאות וירטואליות בלתי נשכחות עם חוויית המשחקים המתקדמת שלנו. התחבר לקהילת גיימרים, שחק מכל מקום, וגלה את Elder Scrolls Online. הצטרף עכשיו והתחיל לשחק!
+
+### תכונות
+https://-9585fd99.zappy5.app/features
+חשוף את ארגז הכלים הסודי של גיימר אמיתי: סטרימינג חלק, גרפיקה חדה, ומסעות מרובי משתתפים ב-Elder Scrolls Online. כל מה שצריך כדי לנצח, במקום אחד. בדוק את התכונות עכשיו!
+
+### אודות
+https://-9585fd99.zappy5.app/about
+אנחנו לא סתם אתר – אנחנו שבט של הרפתקנים דיגיטליים. גלה איך הפכנו את התשוקה ל-Elder Scrolls Online ולענן של Xbox לממלכה משגשגת. הצטרף למסע שלנו ולמד עוד!
+
+### צור קשר
+https://-9585fd99.zappy5.app/contact
+יש לך רעיון, בעיה או סתם בא לך לדבר על הבוס האחרון ב-Elder Scrolls Online? אנחנו כאן. שלח הודעה מהירה ונתחיל לתכנן את הניצחון הבא שלך בענן. צור קשר עכשיו!
+
+### Products
+https://-9585fd99.zappy5.app/products
+המוצרים שלנו - אתר משחקים
+
+### Cart
+https://-9585fd99.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-9585fd99.zappy5.app/checkout
+תשלום
+
+### Login
+https://-9585fd99.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-9585fd99.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-9585fd99.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-9585fd99.zappy5.app/product/:slug
+פרטי המוצר - אתר משחקים
+
+### Category
+https://-9585fd99.zappy5.app/category/:slug
+מוצרים - אתר משחקים
+
+### תודה על פנייתך
+https://-9585fd99.zappy5.app/thank-you
+אתר משחקים - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://-9585fd99.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-9585fd99.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-9585fd99.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אתר משחקים
+A gaming website focused on delivering an engaging experience for game enthusiasts. The exact niche, tone, and offerings are yet to be defined — could range from casual browser games to a full gaming platform or community hub.
+
+## Target Audience
+- משחקים
+
+## Industry
+Gaming
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-9585fd99.zappy5.app/sitemap.xml
+- Robots: https://-9585fd99.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-9585fd99.zappy5.app/llms-full.txt
+- Products (JSON): https://-9585fd99.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-9585fd99.zappy5.app/product-feed.xml
